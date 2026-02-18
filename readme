@@ -1,0 +1,14 @@
+# Smart Personal Assistant (Rule-Based, FastAPI)
+
+## Features
+- Task management with priority and deadlines
+- Suggests next task automatically
+- Customizable persona (name + tone)
+- Opens PDFs and URLs
+- FastAPI backend with Swagger UI for interactive testing
+- Long-term memory stored in JSON
+
+## Run Instructions
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
